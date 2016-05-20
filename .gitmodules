@@ -1,0 +1,6 @@
+[submodule "payara-micro-alpine"]
+path = 4/payara-micro-docker
+url = git@github.com:mikecroft/payara-micro-alpine.git
+[submodule "payara-vagrant-aws"]
+path = 3/payara-vagrant-aws
+url = git@github.com:mikecroft/payara-vagrant-aws.git
